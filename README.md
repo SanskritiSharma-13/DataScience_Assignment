@@ -4,7 +4,7 @@
 
 This repository contains the solution for the Data Science assignment, focusing on eCommerce transactions. The task includes Exploratory Data Analysis (EDA), building a Lookalike Model, and performing customer segmentation using clustering techniques on a given dataset consisting of customer, product, and transaction data.
 
-The code for this project was developed and executed on **Google Colab**, leveraging its cloud-based Python environment for data analysis, modeling, and visualization.
+
 
 ## Dataset
 
